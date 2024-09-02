@@ -1,0 +1,9 @@
+# Packages
+ &PACKAGES
+ useGMRedi=.TRUE.,
+ useMNC=.TRUE.,
+ usediagnostics=.TRUE.,
+ usePTRACERS=.TRUE.,
+ useGCHEM=.TRUE.,
+ useRBCS=.TRUE.,
+ &
