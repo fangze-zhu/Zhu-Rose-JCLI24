@@ -17,7 +17,8 @@ checkpoint67f
 - S-relaxation
 - MOC-relaxation
 - PO<sub>4</sub>-relaxation
-- Ice-free
+
+#### 2.3. Ice-free experiments
 
 ## Contact
 fzhu@albany.edu
